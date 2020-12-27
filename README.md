@@ -1,3 +1,13 @@
+# Some tips for using trellis:
+## 1. Double-clicking on the name of the board will edit the name.
+## 2. Double-clicking on the card name will allow you to quickly edit the name.
+## 3. The red color of the date means that the task is overdue.
+## 4. Orange means that today is the last day of performance.
+## 5. Yellow indicates the remaining 1 day before the deadline.
+
+/--------------------------------------------------------------------/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
